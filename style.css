@@ -29,3 +29,36 @@ height: 300px;
     padding-left: 100px;
 
 }
+/*SOBRE NOS*/
+#sobrenos {
+    display: grid;
+    grid-auto-flow: column; /* Organiza os itens em colunas */
+    align-items: center; /* Alinha verticalmente os itens ao centro */
+    column-gap: 40px; /* Espaçamento entre as colunas */
+    padding: 40px 20px; /* Espaçamento interno */
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+#textosobrenos, #subtextosobrenos {
+    text-align: left; /* Alinha o texto à esquerda */
+}
+
+#textosobrenos {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#subtextosobrenos {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+}
+
+#imagemprojeto img {
+    max-width: 100%; /* Faz a imagem se ajustar ao container */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
