@@ -3,12 +3,12 @@ body{
 }
 #cabecalho{
 background-color: #303030;
-height: 250px;
+height: 300px;
 }
 #titulocabecalho{
     color: #ffffff;
     margin-left: 40px;
-    padding-top: 100px;
+    padding-top: 125px;
     font-size: 35px;
 }
 #subtitulocabecalho{
@@ -16,9 +16,16 @@ height: 250px;
     font-size: 15px;
     margin-left: 50px;
 }
+/*BARRA DE INFORMAÇÃO */
 #barrainformacao{
     background-color: #F9F9F9;
     display: grid;
+    height: 200px;
     grid-auto-flow: column;
     columns: auto;
+}
+.informacoes{
+    padding-top: 50px;
+    padding-left: 100px;
+
 }
