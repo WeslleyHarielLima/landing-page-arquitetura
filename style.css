@@ -1,64 +1,114 @@
-body{
+body {
     font-family: 'inter';
+  
 }
-#cabecalho{
-background-color: #303030;
-height: 300px;
+
+#cabecalho {
+    background-color: #303030;
+    height: 300px;
 }
-#titulocabecalho{
+
+#titulocabecalho {
     color: #ffffff;
     margin-left: 40px;
     padding-top: 125px;
     font-size: 35px;
 }
-#subtitulocabecalho{
+
+#subtitulocabecalho {
     color: #ffffff;
     font-size: 15px;
     margin-left: 50px;
 }
+
 /*BARRA DE INFORMAÇÃO */
-#barrainformacao{
+#barrainformacao {
     background-color: #F9F9F9;
     display: grid;
     height: 200px;
     grid-auto-flow: column;
     columns: auto;
 }
-.informacoes{
+
+.informacoes {
     padding-top: 50px;
     padding-left: 100px;
 
 }
+
 /*SOBRE NOS*/
 #sobrenos {
     display: grid;
-    grid-auto-flow: column; /* Organiza os itens em colunas */
-    align-items: center; /* Alinha verticalmente os itens ao centro */
-    column-gap: 40px; /* Espaçamento entre as colunas */
-    padding: 40px 20px; /* Espaçamento interno */
-    background-color: #f4f4f4;
+    grid-auto-flow: column;
+    align-items: center;
+    column-gap: 40px;
+    padding: 40px 20px;
+  
     font-family: Arial, sans-serif;
 }
 
-#textosobrenos, #subtextosobrenos {
-    text-align: left; /* Alinha o texto à esquerda */
+#textosobrenos,
+#subtextosobrenos {
+    text-align: left;
+    margin-left: 40px;
 }
 
 #textosobrenos {
     font-size: 32px;
     color: #333;
     margin-bottom: 20px;
+
 }
 
 #subtextosobrenos {
     font-size: 18px;
     color: #666;
     line-height: 1.6;
+
 }
 
 #imagemprojeto img {
-    max-width: 100%; /* Faz a imagem se ajustar ao container */
-    height: auto; /* Mantém a proporção da imagem */
+
+    height: auto;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#titulo-formulario {
+    color: #ffffff;
+    margin-left: 40px;
+    padding-top: 60px;
+    font-size: 25px;
+
+}
+/*FORMULARIO*/
+#formulario {
+    background-color: #303030;
+    text-align: center;
+}
+
+button {
+    background-color: #C47A3D;
+    color: white;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+button:hover {
+    background-color: #A16531;
+}
+
+input {
+    width: 300px;
+    padding: 18px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 27px;
+
 }
