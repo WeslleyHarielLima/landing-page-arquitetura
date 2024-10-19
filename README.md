@@ -3,7 +3,7 @@
 
 Esse é o 1º desafio da DNC de conclusão ao modulo basico
 Link do site disponibilizado:https://projetohtmlescritorioarquitetura.netlify.app
-Link da planilha de registro:https://api.sheetmonkey.io/form/fKH2UwvzdGNw5j9a2akfgz
+Link da planilha de registro:https://docs.google.com/spreadsheets/d/1H1Jge7qz0MMVPJgVsn8n-0GY-GwY5x1IGVs_FxCReeA/edit?usp=sharing
 
 #Landing Page de Arquitetura
 Esta é uma landing page moderna e minimalista desenvolvida para um escritório de arquitetura. O objetivo é apresentar os serviços, projetos e o portfólio do escritório de forma clara e elegante.
