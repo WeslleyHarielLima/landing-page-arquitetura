@@ -1,4 +1,7 @@
 # landing-page-arquitetura
+
+Link do site disponibilizado:https://projetohtmlescritorioarquitetura.netlify.app
+Link da planilha de registro:https://api.sheetmonkey.io/form/fKH2UwvzdGNw5j9a2akfgz
 Esse é o 1º desafio da DNC de conclusão ao modulo basico
 Landing Page de Arquitetura
 Esta é uma landing page moderna e minimalista desenvolvida para um escritório de arquitetura. O objetivo é apresentar os serviços, projetos e o portfólio do escritório de forma clara e elegante.
